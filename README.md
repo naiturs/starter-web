@@ -8,6 +8,10 @@ This is example is to show different parts of the Git repository and various com
 
 ## Purpose
 
+Purpose buzz.
+
 ## Deployement
+
+Deployement buzz. 
 
 ## Hot To Contribute
