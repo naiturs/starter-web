@@ -16,5 +16,7 @@ Deployement buzz.
 
 ## Hot To Contribute
 
+Please fork this repo and then issue Pull Request for Review. 
+
 ### Copyright 
 some copyright
