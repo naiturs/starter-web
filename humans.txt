@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+    Max Alekseev -- Solutions team leader -- none
     <name> -- <role> -- <twitter>
 
 # THANKS
