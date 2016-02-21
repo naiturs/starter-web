@@ -15,3 +15,6 @@ Purpose buzz.
 Deployement buzz. 
 
 ## Hot To Contribute
+
+### Copyright 
+some copyright
