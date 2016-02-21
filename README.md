@@ -1,6 +1,6 @@
 #Starter Web Project 
 
-This is a simple project to learn how to work with Git and GitHub. Part of Udemy course. Adding line for rebase example. 
+This is a simple project to learn how to work with Git and GitHub. Part of Udemy course. Adding line for rebase example, then more changes from myfeature branch too. 
 
 ## Introduction
 
