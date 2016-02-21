@@ -19,4 +19,4 @@ Deployement buzz.
 Please fork this repo and then issue Pull Request for Review. 
 
 ### Copyright 
-some copyright
+some copyright. Some urgent stuff.
